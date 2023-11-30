@@ -28,6 +28,6 @@ jobs:
               ]
             }
         env:
-          SLACK_WEBHOOK_URL: https://hooks.slack.com/services/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
+          SLACK_WEBHOOK_URL: https://hooks.slack.com/services/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
           SLACK_WEBHOOK_TYPE: INCOMING_WEBHOOK
           GITHUB_USERNAME: ${{github.actor}}
